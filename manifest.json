@@ -1,0 +1,48 @@
+{
+  "manifest_version": "1.0",
+  "org": "lodash",
+  "repo": "lodash",
+  "versions": [
+    {
+      "commit": "e0971cd02cde517b4be70cf7ec3b198a98cdb608",
+      "parsed_at": "2026-03-18T11:21:36.932886+00:00",
+      "filetree": "filetree/e0971cd02cde517b4be70cf7ec3b198a98cdb608.nq.gz",
+      "blobs": [
+        "blob/f1b52347f3389a36a86c4a130ec07463f1644a31.nq.gz",
+        "blob/658c1ffb2f18c6b2d7cfee58c93cdeb8f11ec858.nq.gz",
+        "blob/b194ad1deb5534df29e611a3014f9138c7504d51.nq.gz",
+        "blob/d4da85adaf9ea9e1d7cc35345f1366061b42c50f.nq.gz",
+        "blob/935626073f85f7a286e48febe48539a85004a77d.nq.gz",
+        "blob/db58007bb828b1bc66898657fe4b8d14f7da1923.nq.gz",
+        "blob/cde5bfc880adb0461fc268b38ad33e6c72205d1b.nq.gz",
+        "blob/946bf6db30d3a939b7fb75e03f064de3bda60cd4.nq.gz",
+        "blob/9e0760f1845c045fbd9e1df3ea3218b973976d9a.nq.gz",
+        "blob/7314d2c07e0740348c8c3d2d0f1b0ad5e66c68a8.nq.gz",
+        "blob/42768ad24baee2070da44a50b55f216cd1a6c7bc.nq.gz",
+        "blob/6d2a8a7b8abccaaac6e29a723fec2b3238182d63.nq.gz",
+        "blob/58b805fea8404054e4a3b0afbb3990a5be64b401.nq.gz",
+        "blob/1f33a3315f505d625e38fb5027aef8c2297ae467.nq.gz",
+        "blob/dc6f233649be2ac4bbd06c1e5be59bf208472548.nq.gz",
+        "blob/a0e9f806fa46bf2850cd8f34cb0bead7ddb82e86.nq.gz",
+        "blob/f8e5dc5c8082adb9971f265f07e9dac7b55509c9.nq.gz",
+        "blob/e4d5038d5fd8a6b4b1a76a20490a98ae517be1ad.nq.gz",
+        "blob/25758722479507828f54419f351f16b2c3cf58ac.nq.gz",
+        "blob/47d156244dc0e17d6c53c206f7117a6e4ebc0f2c.nq.gz",
+        "blob/bcecc4c0daf92a00f11e24d922c23e36d9ecca3f.nq.gz",
+        "blob/bc9202c89cadb11de13d5cc279b932fefaade84a.nq.gz",
+        "blob/e2803b21c8cbb2da4a9972c07cefe648640e2ab4.nq.gz",
+        "blob/86663a23782acd841738a5e1c6eba149f6434a27.nq.gz",
+        "blob/fc44fa3663851bb3de457cb5a7be3d93abbf7150.nq.gz",
+        "blob/b1ae21d8b23f25359f21b6c69f0eb2dd29016466.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/e0971cd02cde517b4be70cf7ec3b198a98cdb608.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e0971cd02cde517b4be70cf7ec3b198a98cdb608.nq.gz",
+      "repolex": "aggregate/repolex/e0971cd02cde517b4be70cf7ec3b198a98cdb608.nq.gz"
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
